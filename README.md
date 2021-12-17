@@ -63,5 +63,5 @@ Hardware Project Link: [https://github.com/denisAlberto/Aromni](https://github.c
 [license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=flat-square
 [license-url]: https://github.com/geneuto/aromni/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
-[linkedin-url]: https://www.linkedin.com/in/francisco-geneuto-45578713a/
+[linkedin-url]: https://www.linkedin.com/in/denis-alberto-silverio-11014925/
 [product-screenshot]: template/scren_aromni01.png
